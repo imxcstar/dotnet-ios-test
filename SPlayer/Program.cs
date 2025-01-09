@@ -1,3 +1,3 @@
-﻿using ConsoleApp5;
+﻿using SPlayer;
 
 UIApplication.Main(args, null, typeof(AppDelegate));

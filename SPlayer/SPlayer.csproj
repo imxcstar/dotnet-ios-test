@@ -7,6 +7,11 @@
         <ImplicitUsings>enable</ImplicitUsings>
         <Nullable>enable</Nullable>
         <ApplicationId>com.xcssa.ConsoleApp5</ApplicationId>
+        <RootNamespace>ConsoleApp5</RootNamespace>
     </PropertyGroup>
+
+    <ItemGroup>
+      <PackageReference Include="WebDav.Client" Version="2.8.0" />
+    </ItemGroup>
 
 </Project>
